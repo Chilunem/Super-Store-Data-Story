@@ -1,6 +1,6 @@
 # Super-Store Returns 
 
-HERE IS A LINK TO MY TABLEAU PULBIC PORTFOLIO ILLUSTRATING THE INSIGHTS, REPORT AND DASHBOARDS - https://public.tableau.com/app/profile/jesse.michael/viz/SuperStore-SalesReturnsAnalytics/TotalSalesRelativetoReturns
+HERE IS A LINK TO MY TABLEAU PULBIC PORTFOLIO ILLUSTRATING THE INSIGHTS, REPORT AND DASHBOARDS - https://public.tableau.com/app/profile/jesse.michael/viz/SuperStore-SalesReturnsAnalytics/TotalSalesRelativetoReturns  
 Table of Contents for Repository Artifacts
 
 File Number	Title	Description
